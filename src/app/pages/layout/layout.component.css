@@ -1,0 +1,9 @@
+.sidebar {
+    background-color: #343a40; /* Dark background for sidebar */
+    color: white;
+    height: 100vh; /* Full height */
+}
+
+.main-content {
+    padding: 20px; /* Add some padding to the main content area */
+}
